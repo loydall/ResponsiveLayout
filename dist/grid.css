@@ -1,0 +1,60 @@
+.grd {
+  padding: 0 0 16px 16px; }
+
+.grd [class*="cl"] {
+  display: inline-block;
+  box-sizing: border-box;
+  margin-right: -4px;
+  padding: 16px;
+  /*
+  These borders/colours below are for display only - not actually required
+  */
+  background-color: #e6ebef;
+  border-top: 16px solid white;
+  border-right: 16px solid white; }
+
+.clw {
+  width: 100%; }
+
+.clh {
+  width: 50%; }
+
+.clt {
+  width: 33.3%; }
+
+.clt2 {
+  width: 66.6%; }
+
+.clq {
+  width: 25%; }
+
+.clq3 {
+  width: 75%; }
+
+@media screen and (min-width: 1280px) {
+  .clwl {
+    width: 100%; }
+  .clhl {
+    width: 50%; }
+  .cltl {
+    width: 33.3%; }
+  .clt2l {
+    width: 66.6%; }
+  .clql {
+    width: 25%; }
+  .clq3l {
+    width: 75%; } }
+
+@media screen and (max-width: 767px) {
+  .clws {
+    width: 100%; }
+  .clhs {
+    width: 50%; }
+  .clts {
+    width: 33.3%; }
+  .clt2s {
+    width: 66.6%; }
+  .clqs {
+    width: 25%; }
+  .clq3s {
+    width: 75%; } }
