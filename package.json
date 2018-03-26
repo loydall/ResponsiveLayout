@@ -1,0 +1,24 @@
+{
+  "name": "responsivelayout",
+  "version": "1.0.0",
+  "description": "A responsive web layout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loydall/ResponsiveLayout.git"
+  },
+  "keywords": [
+    "html5",
+    "mobile",
+    "responsive"
+  ],
+  "author": "John Loydall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loydall/ResponsiveLayout/issues"
+  },
+  "homepage": "https://github.com/loydall/ResponsiveLayout#readme"
+}
